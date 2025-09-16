@@ -6,7 +6,7 @@
 
 It has been common practice to install fiber cement panels and trim in direct, intimate contact against water resistive barriers. This may present localized points of failure in the longevity or durability of the building envelope when wood-based sheathings are used.
 
-## Problem Statement:
+## Problem Statement
 
 How might we assess latent risk in the built environment by using machine learning to analyze a commonly used construction assembly in the Northeast Florida?
 
