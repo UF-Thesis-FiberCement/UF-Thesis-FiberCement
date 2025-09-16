@@ -5,7 +5,7 @@
 
 It has been common practice to install fiber cement panels and trim in direct, intimate contact against water resistive barriers. This may present localized points of failure in the longevity or durability of the building envelope when wood-based sheathings are used.
 
-## Repository Structure (IN PROGRESS)
+## Repository Structure (In Progress)
 
 - `thesis.pdf` — Final version of the thesis.
 - `chapters/` — Source files (LaTeX or Markdown) for each chapter.
