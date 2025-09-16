@@ -1,4 +1,4 @@
-# Fiber Cement Cladding Intimately Attached to Wood Structural Panels in Moist or Marine Climates: Analyzing the Extent of Risk
+# Fiber Cement Cladding Intimately Attached to Wood Structural Panels with Integral Water Resistive Barrier in Moist or Marine Climates: Analyzing the Extent of Risk
 
 ## Abstract
 
