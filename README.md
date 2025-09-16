@@ -1,6 +1,6 @@
 # Fiber Cement Cladding Intimately Attached to Wood Structural Panels with Integral Water Resistive Barrier in Moist or Marine Climates: Analyzing the Extent of Risk
 #### https://uf-thesis-fibercement.github.io/UF-Thesis-FiberCement/
-### Joel Esposito | UF CityLab Jacksonville | 2026
+#### Joel Esposito | UF CityLab Jacksonville | 2026
 ## Abstract
 
 It has been common practice to install fiber cement panels and trim in direct, intimate contact against water resistive barriers. This may present localized points of failure in the longevity or durability of the building envelope when wood-based sheathings are used.
