@@ -19,6 +19,7 @@ It has been common practice to install fiber cement panels and trim in direct, i
 - Contacted ASTM to inquire about availability of a test method of interest for academic use.
 - Counted existing deck pier blocks to update materials shopping list.
 - Setup GitHub repository to track progress
+<br>
 <img src="images/Diagram.jpg" alt="Diagram of test panel" width="720" style="border: 1px solid lightgray;"/>
 
 
