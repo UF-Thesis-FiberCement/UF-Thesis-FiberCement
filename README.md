@@ -10,7 +10,7 @@ It has been common practice to install fiber cement panels and trim in direct, i
 
 How might we assess latent risk in the built environment by using machine learning to analyze a commonly used construction assembly in the Northeast Florida?
 
-## Repository Structure (In Progress)
+## Repository Structure
 
 - `thesis.pdf` — Final version of the thesis.
 - `chapters/` — Source files (LaTeX or Markdown) for each chapter.
@@ -19,7 +19,7 @@ How might we assess latent risk in the built environment by using machine learni
 - `data/` — (If applicable) Raw or processed data.
 
 ## Updates
-### 2025-9-16 | Tuesday, September 16, 2025 | SHARE Lab Meeting
+### 2025-9-16 | SHARE Lab Meeting
 - Replied to Johns Manville to acquire insulation for use in the test walls.
 - Contacted ASTM to inquire about availability of a test method of interest for academic use.
 - Counted existing deck pier blocks to update materials shopping list.
