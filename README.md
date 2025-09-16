@@ -19,8 +19,8 @@ It has been common practice to install fiber cement panels and trim in direct, i
 - Replied to Johns Manville to acquire insulation for use in the test walls.
 - Contacted ASTM to inquire about availability of a test method of interest for academic use.
 - Counted existing deck pier blocks to update materials shopping list.
-- Setup GitHub repository to track progress <br>
-<img src="images/Diagram.jpg" alt="Diagram of test panel" width="720" style="border: 1px solid lightgray;"/>
+- Setup GitHub repository to track progress
+<img src="images/Diagram.jpg" alt="Diagram of test panel" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 
 
 ## License
