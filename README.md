@@ -19,6 +19,12 @@ How might we assess latent risk in the built environment by using machine learni
 - `data/` — (If applicable) Raw or processed data.
 
 ## Updates
+### 2025-10-2 | Building Test Panels
+- Received ZipSystem sheathing from Huber Engineered Woods
+- Pre-cut cladding and sheathing layers
+- Finalized materails list and submitted for purchase
+<img src="images/Panels.jpg" alt="Process photo of building the test panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+
 ### 2025-9-16 | SHARE Lab Meeting
 - Replied to Johns Manville to acquire insulation for use in the test walls.
 - Contacted ASTM to inquire about availability of a test method of interest for academic use.
