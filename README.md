@@ -19,19 +19,34 @@ How might we assess latent risk in the built environment by using machine learni
 - `data/` — (If applicable) Raw or processed data.
 
 ## Updates
+### 2025-10-20 | Building Test Panels
+- Received materials
+- Cut and assembled test panel frames
+- Installed sheathing layer and flashing tape
+- Cut and taped panel support gussets
+- Painted drywall with two coats of interior paint and cut into panels
+<img src="images/Clamps.jpg" alt="Clamping the panel frame together" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Framing.jpg" alt="Building the panel frame" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Lap.jpg" alt="Laping the flashing tape at seams and corners" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Gusset.jpg" alt="Taping the panel support gussets" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Roller.jpg" alt="Imprint left by the J-roller on the flashing tape" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Panel.jpg" alt="One of the finished panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Finished.jpg" alt="All of the finshed panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Paint.jpg" alt="The brand and type of interior paint" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Drywall.jpg" alt="Preparing to cut a panel of painted drywall" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+
 ### 2025-10-2 | Building Test Panels
 - Received ZipSystem sheathing from Huber Engineered Woods
 - Pre-cut cladding and sheathing layers
 - Finalized materails list and submitted for purchase
-<img src="images/Panels.jpg" alt="Process photo of building the test panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Panels.jpg" alt="Building the test panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 
 ### 2025-9-16 | SHARE Lab Meeting
-- Replied to Johns Manville to acquire insulation for use in the test walls.
-- Contacted ASTM to inquire about availability of a test method of interest for academic use.
-- Counted existing deck pier blocks to update materials shopping list.
+- Replied to Johns Manville to acquire insulation for use in the test walls
+- Contacted ASTM to inquire about availability of a test method of interest for academic use
+- Counted existing deck pier blocks to update materials shopping list
 - Setup GitHub repository to track progress
 <img src="images/Diagram.jpg" alt="Diagram of test panel" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
-
 
 ## License
 
