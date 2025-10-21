@@ -27,7 +27,7 @@ How might we assess latent risk in the built environment by using machine learni
 - Painted drywall with two coats of interior paint and cut into panels
 <img src="images/Clamps.jpg" alt="Clamping the panel frame together" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Framing.jpg" alt="Building the panel frame" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
-<img src="images/Lap.jpg" alt="Laping the flashing tape at seams and corners" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Lap.jpg" alt="Measuring the flashing tape overlap" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Gusset.jpg" alt="Taping the panel support gussets" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Roller.jpg" alt="Imprint left by the J-roller on the flashing tape" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Panel.jpg" alt="One of the finished panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
