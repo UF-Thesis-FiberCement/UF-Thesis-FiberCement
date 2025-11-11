@@ -19,6 +19,19 @@ How might we assess latent risk in the built environment by using machine learni
 - `data/` — (If applicable) Raw or processed data.
 
 ## Updates
+### 2025-11-11 | Building Test Panels
+- Received sensors
+- Cut and assembled insulation enclosures
+- Built mockup platform to test sun exposure
+- Installed wood moisture sensors in sheathing with protected shims to facilitate inward vapor drive/molecular diffusion
+- Tested sensor array
+- Observed calibration delta between waterproof sensor and standard sensors (HT1 vs. HTw)
+<img src="images/Mockup.jpg" alt="Mockup platform with the test panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Polyiso-sheet.jpg" alt="Foil-faced polyiso insulation sheet" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Polyiso.jpg" alt="Cut polyiso pieces" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Screw-Depth.jpg" alt="Checking screw depth in the sheathing" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Sensor.jpg" alt="Installed sensor in sheathing with shims" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+
 ### 2025-10-20 | Building Test Panels
 - Received materials
 - Cut and assembled test panel frames
