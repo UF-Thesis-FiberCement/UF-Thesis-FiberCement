@@ -27,7 +27,7 @@ How might we assess latent risk in the built environment by using machine learni
 - Tested sensor array
 - Observed calibration delta between waterproof sensor and standard sensors (HT1 vs. HTw)
 <img src="images/Mockup.jpg" alt="Mockup platform with the test panels" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
-<img src="images/Polyiso-sheet.jpg" alt="Foil-faced polyiso insulation sheet" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
+<img src="images/Polyiso-Sheet.jpg" alt="Foil-faced polyiso insulation sheet" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Polyiso.jpg" alt="Cut polyiso pieces" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Screw-Depth.jpg" alt="Checking screw depth in the sheathing" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
 <img src="images/Sensor.jpg" alt="Installed sensor in sheathing with shims" width="720" style="margin-top: 20px; border: 1px solid lightgray;"/>
