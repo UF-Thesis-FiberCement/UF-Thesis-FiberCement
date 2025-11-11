@@ -19,9 +19,9 @@ How might we assess latent risk in the built environment by using machine learni
 - `data/` — (If applicable) Raw or processed data.
 
 ## Updates
-### 2025-11-11 | Building Test Panels
+### 2025-11-11 | Testing Sensors, Building Platform and Dessicant Enclosures
 - Received sensors
-- Cut and assembled insulation enclosures
+- Cut and assembled dessicant enclosures (foil-faced poly-iso with foil-faced tape)
 - Built mockup platform to test sun exposure
 - Installed wood moisture sensors in sheathing with protected shims to facilitate inward vapor drive/molecular diffusion
 - Tested sensor array
